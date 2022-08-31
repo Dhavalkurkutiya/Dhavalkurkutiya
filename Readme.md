@@ -1,4 +1,4 @@
-# Hi, I'm Katherine! 👋
+# Hi, I'm Dhavalkurkutiya! 👋
 
 ## Other Common Github Profile Sections
 
