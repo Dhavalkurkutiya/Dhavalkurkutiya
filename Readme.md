@@ -2,21 +2,21 @@
 
 ## Other Common Github Profile Sections
 
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently Study on... Excel institute of diploma 
 
-🧠 I'm currently learning...
+🧠 I'm currently learning... Java, php, MySQL, Web Development
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on...🖥️🖥️🖥️
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with...🤗🤗🤗
 
-💬 Ask me about...
+💬 Ask me about...📜📜📜
 
 📫 How to reach me...
 
 😄 Pronouns...
 
-⚡️ Fun fact...
+⚡️ Fun fact... 😁😁😁
 
 ## 🔗 Links
 
