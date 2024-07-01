@@ -1,3 +1,4 @@
+[![20240701-112639-0000.png](https://i.postimg.cc/437DBy7j/20240701-112639-0000.png)](https://postimg.cc/HJmvLptt)
 
 ## 👋 Hello! 
 Software engineer with 6+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
