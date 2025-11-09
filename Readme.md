@@ -1,23 +1,24 @@
-# Hi there, I'm Dhaval Kurkutiya 👋
+# Dhaval Kurkutiya
 
 [![LinkedIn Banner](https://i.postimg.cc/MG55vfCb/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/zLLKQvXV)
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **Software Engineer** with **6+ years of experience** building scalable web and mobile applications. I've contributed to innovative startups, enterprise-level products, and award-winning digital agencies. 
+Software Engineer with 6+ years of experience building scalable web and mobile applications. I've contributed to innovative startups, enterprise-level products, and award-winning digital agencies, consistently delivering high-quality solutions ahead of schedule.
 
-I thrive in both remote and in-office environments, taking full ownership of projects and consistently delivering ahead of schedule. My expertise spans the full development lifecycle—from concept to deployment.
+My expertise spans the full development lifecycle—from architecture and design to deployment and maintenance. I thrive in both remote and in-office environments, taking full ownership of projects while collaborating effectively with cross-functional teams.
 
-### 💼 What I Bring to the Table
-- 🎯 **Full-Stack Development**: Proficient in modern web technologies and frameworks
-- 🏗️ **Architecture & Design**: Building scalable, maintainable solutions
-- 🚢 **Fast Delivery**: Known for exceeding expectations and beating deadlines
-- 🤝 **Collaboration**: Experienced in agile teams and cross-functional communication
-- 📱 **Multi-Platform**: Web, mobile, and API development expertise
+### Core Competencies
+
+**Full-Stack Development** — Proficient in modern web technologies and frameworks  
+**System Architecture** — Building scalable, maintainable solutions  
+**Rapid Delivery** — Known for exceeding expectations and beating deadlines  
+**Team Collaboration** — Experienced in agile methodologies and cross-functional communication  
+**Multi-Platform Development** — Web, mobile, and API expertise
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,7 +42,7 @@ I thrive in both remote and in-office environments, taking full ownership of pro
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -56,7 +57,7 @@ I thrive in both remote and in-office environments, taking full ownership of pro
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhavalkurkutiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -69,7 +70,7 @@ I thrive in both remote and in-office environments, taking full ownership of pro
 
 ---
 
-## 🏆 GitHub Trophies
+## Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhavalkurkutiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -77,9 +78,9 @@ I thrive in both remote and in-office environments, taking full ownership of pro
 
 ---
 
-## 📫 Let's Connect!
+## Connect With Me
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+Open to discussing new projects, innovative ideas, and collaboration opportunities.
 
 <div align="center">
 
@@ -98,6 +99,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   
-### ⚡ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </div>
