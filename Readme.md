@@ -1,4 +1,4 @@
-# Hi there, I'm Dhaval Kurkutiya 👋
+[# Hi there, I'm Dhaval Kurkutiya 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3178C6&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Building+Vibedev+AI" alt="Typing SVG" />
@@ -54,3 +54,4 @@ I am a **B.Tech Computer Science Graduate** and a passionate Full-Stack Develope
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+](https://github.com/Dhavalkurkutiya/)
