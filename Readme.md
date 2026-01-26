@@ -1,77 +1,56 @@
-# Dhaval Kurkutiya
+# Hi there, I'm Dhaval Kurkutiya 👋
 
-## 🚀 Full-Stack Developer
-**Building scalable web applications with modern technologies.**
-
-Software Engineer with a passion for building high-quality, scalable web and mobile applications. My expertise spans the full development lifecycle—from system architecture and design to deployment and maintenance. I thrive in agile environments, taking full ownership of projects while collaborating effectively with cross-functional teams.
-
-### 🛠️ Core Competencies
-* **Full-Stack Development** — Proficient in modern web frameworks.
-* **System Architecture** — Designing scalable and maintainable solutions.
-* **Rapid Delivery** — Delivering high-quality code ahead of deadlines.
-* **Collaborative Mindset** — Experienced in Agile and remote team environments.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3178C6&width=435&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Building+Vibedev+AI" alt="Typing SVG" />
+</div>
 
 ---
 
-## 💻 Technical Skills
+### 🚀 About Me
 
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I am a **B.Tech Computer Science Graduate** and a passionate Full-Stack Developer focused on building AI-driven solutions. Currently, I'm innovating the way we build web apps with my project **Vibedev AI**.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material_UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+* 🔭 I’m currently working on **Vibedev AI** (AI-powered full-stack builder).
+* 🌱 I’m currently learning **LLM Fine-tuning** and **RAG Pipelines**.
+* ⚡ Tech Stack: **Next.js 15, React 19, & TypeScript**.
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhavalkurkutiya&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavalkurkutiya&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhavalkurkutiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dhaval's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavalkurkutiya&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhavalkurkutiya&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+### 🛠️ Technical Arsenal
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+
+---
+
+### 🤝 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dhaval-kurkutiya-1540981b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/Dhaval87950061">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 </p>
 
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
