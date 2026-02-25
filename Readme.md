@@ -60,21 +60,10 @@ My expertise spans the full development lifecycle—from architecture and design
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhavalkurkutiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavalkurkutiya&layout=compact&theme=radical&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhavalkurkutiya&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhavalkurkutiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -99,7 +88,5 @@ Open to discussing new projects, innovative ideas, and collaboration opportuniti
 
 <div align="center">
   
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+"Code is like humor. When you have to explain it, it's bad." – Cory House
 
-</div>
- isme fix kar ko do 
