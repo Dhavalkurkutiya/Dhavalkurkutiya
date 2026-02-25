@@ -65,8 +65,6 @@ My expertise spans the full development lifecycle—from architecture and design
 
 ---
 
----
-
 ## Connect With Me
 
 Open to discussing new projects, innovative ideas, and collaboration opportunities.
