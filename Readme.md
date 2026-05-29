@@ -46,5 +46,7 @@ My expertise spans the full development lifecycle—from architecture and design
 
 ---
 <div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhavalkurkutiya&color=6366f1&style=flat-square&label=Profile+Views)
+
 </div>
