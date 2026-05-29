@@ -1,6 +1,6 @@
-# Hi, I'm Dhavalkurkutiya 👋
+# Hi, I'm Dhaval Kurkutiya
 
-**Founder @vibedevai | Selected for E2B Research Program | Experienced Full Stack Developer | Building Scalable Web Applications with Modern Tech**
+**Full Stack Developer · Founder @vibedevai · E2B Research Program · Building Scalable Web & AI Applications**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40DhavalKurkutiya-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/DhavalKurkutiya) [![X Follow](https://www.shieldcn.dev/x/follow/Dhaval87950061.svg?variant=branded&size=sm)](https://x.com/Dhaval87950061) [![Website](https://www.shieldcn.dev/badge/Website-www.dhavalkurkutiya.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://www.dhavalkurkutiya.dev/)
 
