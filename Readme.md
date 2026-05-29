@@ -4,7 +4,7 @@
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40DhavalKurkutiya-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/DhavalKurkutiya) [![X Follow](https://www.shieldcn.dev/x/follow/Dhaval87950061.svg?variant=branded&size=sm)](https://x.com/Dhaval87950061) [![Website](https://www.shieldcn.dev/badge/Website-www.dhavalkurkutiya.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://www.dhavalkurkutiya.dev/)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/DhavalKurkutiya.svg?variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/DhavalKurkutiya.svg?variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-116-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Profile Views](https://komarev.com/ghpvc/?username=Dhavalkurkutiya&color=6366f1&style=flat-square&label=Profile+Views)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/DhavalKurkutiya.svg?variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/DhavalKurkutiya.svg?variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-116-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
 ---
 
@@ -46,6 +46,4 @@ My expertise spans the full development lifecycle—from architecture and design
 
 ---
 
-## 📦 Top Repositories
-
-[![material-nova ⭐ 4](https://www.shieldcn.dev/github/stars/Dhavalkurkutiya/material-nova.svg?variant=secondary&size=sm)](https://github.com/Dhavalkurkutiya/material-nova) [![bmigo ⭐ 1](https://www.shieldcn.dev/github/stars/Dhavalkurkutiya/bmigo.svg?variant=secondary&size=sm)](https://github.com/Dhavalkurkutiya/bmigo) [![local-guide ⭐ 1](https://www.shieldcn.dev/github/stars/Dhavalkurkutiya/local-guide.svg?variant=secondary&size=sm)](https://github.com/Dhavalkurkutiya/local-guide)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhavalkurkutiya&color=6366f1&style=flat-square&label=Profile+Views)
