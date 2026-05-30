@@ -1,5 +1,7 @@
 # Hi, I'm Dhaval Kurkutiya
 
+[![LinkedIn Banner](https://i.postimg.cc/MG55vfCb/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/zLLKQvXV)
+
 **Full Stack Developer · Founder @vibedevai · E2B Research Program · Building Scalable Web & AI Applications**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40DhavalKurkutiya-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/DhavalKurkutiya) [![X Follow](https://www.shieldcn.dev/x/follow/Dhaval87950061.svg?variant=branded&size=sm)](https://x.com/Dhaval87950061) [![Website](https://www.shieldcn.dev/badge/Website-www.dhavalkurkutiya.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://www.dhavalkurkutiya.dev/)
