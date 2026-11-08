@@ -4,7 +4,7 @@
 
 **Full Stack Developer · Founder @vibedevai · E2B Research Program · Building Scalable Web & AI Applications**
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40DhavalKurkutiya-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/DhavalKurkutiya) [![X Follow](https://www.shieldcn.dev/x/follow/Dhaval87950061.svg?variant=branded&size=sm)](https://x.com/Dhaval87950061) [![Website](https://www.shieldcn.dev/badge/Website-www.dhavalkurkutiya.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://www.dhavalkurkutiya.dev/)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40DhavalKurkutiya-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/DhavalKurkutiya) [![X Follow](https://www.shieldcn.dev/x/follow/Dhaval87950061.svg?variant=branded&size=sm)](https://x.com/Dhaval87950061) [![Website](https://www.shieldcn.dev/badge/Website-www.dhavalkurkutiya.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://www.dhavalkurkutiya.dev/) [![Support](https://img.shields.io/badge/Support-Razorpay-02042B.svg?logo=razorpay&logoColor=00BAF2&style=flat-square)](https://razorpay.me/@dhavalbhaiamratbhaikurkutiya)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/DhavalKurkutiya.svg?variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/DhavalKurkutiya.svg?variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-116-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/DhavalKurkutiya?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
@@ -35,6 +35,23 @@ My expertise spans the full development lifecycle—from architecture and design
 | **Database & Auth** | ![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm) ![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm) ![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm) ![Redis](https://www.shieldcn.dev/badge/-Redis-FF4438.svg?logo=redis&variant=branded&size=sm) ![Prisma](https://www.shieldcn.dev/badge/-Prisma-2D3748.svg?logo=prisma&variant=branded&size=sm) ![Convex](https://www.shieldcn.dev/badge/-Convex-EE342F.svg?logo=convex&variant=branded&size=sm) ![Clerk](https://www.shieldcn.dev/badge/-Clerk-6C47FF.svg?logo=clerk&variant=branded&size=sm) ![NextAuth](https://www.shieldcn.dev/badge/-NextAuth-000000.svg?logo=nextdotjs&variant=branded&size=sm) |
 | **DevOps & Tools** | ![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm) ![AWS](https://www.shieldcn.dev/badge/-AWS-232F3E.svg?logo=amazonwebservices&variant=branded&size=sm) ![Vercel](https://www.shieldcn.dev/badge/-Vercel-000000.svg?logo=vercel&variant=branded&size=sm) ![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm) ![GitHub](https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&variant=branded&size=sm) ![Jest](https://www.shieldcn.dev/badge/-Jest-C21325.svg?logo=jest&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm) ![Bash](https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&variant=branded&size=sm) |
 | **AI & Platforms** | ![OpenAI](https://www.shieldcn.dev/badge/-OpenAI-412991.svg?logo=openai&variant=branded&size=sm) ![Anthropic](https://www.shieldcn.dev/badge/-Anthropic-191919.svg?logo=anthropic&variant=branded&size=sm) ![Inngest](https://www.shieldcn.dev/badge/-Inngest-000000.svg?logo=inngest&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) |
+
+---
+
+## 💖 Support My Work
+
+If you find my open-source projects, themes, or tools helpful, consider supporting my ongoing development:
+
+<p align="center">
+  <a href="https://razorpay.me/@dhavalbhaiamratbhaikurkutiya" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor%20via-Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=00BAF2" alt="Support on Razorpay" />
+  </a>
+</p>
+
+<p align="center">
+  ☕ <strong><a href="https://razorpay.me/@dhavalbhaiamratbhaikurkutiya" target="_blank">Donate / Buy Me a Coffee via Razorpay</a></strong><br>
+  <em>(Supports UPI, Google Pay, PhonePe, Paytm, Cards & NetBanking)</em>
+</p>
 
 ---
 
